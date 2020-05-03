@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.crysta1song.nl/categories/index.html</loc>
+    
+    <lastmod>2020-05-03T07:51:03.356Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.crysta1song.nl/2020/05/01/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2020-05-03T07:45:33.500Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://blog.crysta1song.nl/2020/05/01/hello-world_2/</loc>
     
     <lastmod>2020-05-03T07:16:11.159Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.crysta1song.nl/categories/index.html</loc>
-    
-    <lastmod>2020-05-03T06:53:37.101Z</lastmod>
     
   </url>
   
